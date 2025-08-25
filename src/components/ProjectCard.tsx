@@ -20,7 +20,7 @@ export function ProjectCard({ project }: { project: Project }) {
       </ul>
       <div className="mt-4 flex gap-3 text-sm">
         {project.links.demo && (
-          <a className="text-blue-600 hover:underline" href={project.links.demo} target="_blank" rel="noreferrer">Live Demo</a>
+          <a className="text-blue-600 hover:underline" href={project.links.demo} target="_blank" rel="noreferrer">View</a>
         )}
         {project.links.repo && (
           <a className="text-blue-600 hover:underline" href={project.links.repo} target="_blank" rel="noreferrer">Source</a>

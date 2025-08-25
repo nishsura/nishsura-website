@@ -37,12 +37,12 @@ export const content: SiteContent = {
   experience: [
     {
       company: "Amazon Web Services (AWS)",
-      role: "Software Engineering Intern",
+      role: "Software Development Engineering Intern",
       start: "June 2025",
       end: "Aug. 2025",
       location: "Arlington, VA",
       bullets: [
-        "Products & Solutions Engineering team — building a cloud-based clinical trial platform for pharma enterprises, leveraging Amazon Bedrock for AI-driven anomaly detection and insights on trial data.",
+        "Products & Solutions Engineering team: building a Healthcare & Life Sciences solution for pharmaceutical enterprises, leveraging Amazon Bedrock for AI-driven anomaly detection and insights on data.",
       ],
     },
     {
