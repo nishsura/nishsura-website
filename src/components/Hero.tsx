@@ -18,7 +18,6 @@ export function Hero() {
         </div>
         <div className="flex gap-3">
           <a href="mailto:nishsura@outlook.com" className="inline-flex items-center rounded-md bg-black text-white px-4 py-2 text-sm hover:bg-black/90 dark:bg-white dark:text-black dark:hover:bg-white/90 shadow-sm">Contact</a>
-          <a href="/projects" className="inline-flex items-center rounded-md border border-black/10 dark:border-white/15 px-4 py-2 text-sm hover:bg-black/5 dark:hover:bg-white/5">View Projects</a>
         </div>
       </div>
     </section>
